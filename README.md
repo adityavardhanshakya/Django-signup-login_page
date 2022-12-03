@@ -6,7 +6,7 @@ I'm giving tutorial that how to make login page and signup page in Django using 
 </p>
 
 <p>
-<b>Cmd Commands to install Django and mysql-connector : -</b>
-pip install django
+<b>Cmd Commands to install Django and mysql-connector : -</b><br>
+pip install django<br>
 pip install mysql-connector-python
 </p>
